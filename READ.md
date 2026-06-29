@@ -21,8 +21,7 @@ The Loan Approval Prediction project is a Machine Learning application that pred
 - Pandas
 - NumPy
 - Scikit-learn
-- Joblib/Pickle
-- Streamlit (or Flask, if you used Flask)
+- Pickle
 
 ---
 
@@ -90,7 +89,6 @@ Loan-Approval-Prediction/
 ├── model/
 │   ├── decision_tree_model.pkl
 │
-├── app.py
 ├── loan_approval_prediction.ipynb
 ├── requirements.txt
 └── README.md
