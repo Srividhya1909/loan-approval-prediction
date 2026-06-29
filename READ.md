@@ -89,10 +89,9 @@ Loan-Approval-Prediction/
 │
 ├── model/
 │   ├── decision_tree_model.pkl
-│   └── logistic_regression_model.pkl
 │
 ├── app.py
-├── train_model.py
+├── loan_approval_prediction.ipynb
 ├── requirements.txt
 └── README.md
 ```
